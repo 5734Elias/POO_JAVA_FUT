@@ -1,0 +1,4 @@
+com\seuprojeto\futebol\application\usecases\SimularPartidaUseCaseTest.class
+com\seuprojeto\futebol\domain\events\CartaoAmareloTest.class
+com\seuprojeto\futebol\infrastructure\random\FakeRandomProvider.class
+com\seuprojeto\futebol\domain\events\GolTest.class
